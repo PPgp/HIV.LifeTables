@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+
+importFrom("stats", "approx", "lm", "median", "optimize", "predict.lm", "rnorm")

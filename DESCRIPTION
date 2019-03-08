@@ -1,0 +1,15 @@
+Package: HIV.LifeTables
+Type: Package
+Title: HIV Prevalence Calibrated Model Life Tables for Countries with
+        Generalized HIV Epidemics
+Version: 1.1
+Date: 2019-03-07
+Author: David J Sharrow
+Maintainer: David J Sharrow <dsharrow@uw.edu>
+Description: The functions in this package produce a complete set of mortality rates as a function of a combination of HIV prevalence and some mortality indicator(s).
+License: GPL-2
+Depends: R (>= 2.10)
+LazyData: yes
+LazyLoad: yes
+NeedsCompilation: no
+
